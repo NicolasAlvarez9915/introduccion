@@ -1,0 +1,54 @@
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\bin\Debug\introduccion.exe.config
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\bin\Debug\introduccion.exe
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\bin\Debug\introduccion.pdb
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\bin\Debug\introduccion.xml
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.ejercico_1.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.Form1.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.Resources.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.vbproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.exe
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.xml
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.pdb
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.ejercicio_2.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.ejercicio_3.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.ejercicio_4.resources
+C:\Users\APRENDIZ\Documents\mis proyectos\introduccion\introduccion\obj\Debug\introduccion.ejercicio_5.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\bin\Debug\introduccion.exe.config
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\bin\Debug\introduccion.exe
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\bin\Debug\introduccion.pdb
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\bin\Debug\introduccion.xml
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.vbprojAssemblyReference.cache
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_3.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_2.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercico_1.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_4.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_5.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.Ejercicio_6.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.Form1.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.Resources.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.vbproj.GenerateResource.cache
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.vbproj.CoreCompileInputs.cache
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.exe
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.xml
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.pdb
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_7.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_8.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_9.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_10.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio11.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_12.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_13.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_14.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_15.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_16.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_17.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_18.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio19.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.Ejercicio_20.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio21.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_21.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_22.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_23.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio24.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_25.resources
+C:\Users\I E Parodi\Documents\Javier\introduccion\introduccion\obj\Debug\introduccion.ejercicio_29.resources
